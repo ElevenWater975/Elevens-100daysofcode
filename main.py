@@ -1,7 +1,7 @@
-#Eleven's python project for the 100 days of code challenge
-#Always seperate variable names with an underscore
+#Practice
+def say_hi(name):
+    print("Hello " + name)
 
-name = input("Please enter your name: ")
-password = input("Please enter a password: ")
-print("Welcome " + name + "!") 
 
+    say_hi("Steve")
+    say_hi("Mike")
